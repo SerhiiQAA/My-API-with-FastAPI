@@ -16,7 +16,7 @@ app = FastAPI(
 📦 Uses local JSON file — no external database required.""",
     version="1.0.0",
     contact={
-        "name": "Serhii",
+        "name": "My",
         "url": "https://www.linkedin.com/in/serhiiqaengineer/",        
     }
 )
