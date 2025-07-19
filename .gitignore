@@ -1,0 +1,26 @@
+
+---
+
+## 📄 `.gitignore`
+
+```gitignore
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Environment files
+.env
+*.env
+
+# Others
+*.log
