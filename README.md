@@ -54,14 +54,6 @@ uvicorn main:app --reload
 ### 5. Access Swagger
 - http://127.0.0.1:8000/docs
 
-📁 Project Structure
-├── main.py           # API routes
-├── models.py         # Pydantic schema
-├── utils.py          # JSON handling logic
-├── data.json         # Initial dataset (30 languages)
-├── requirements.txt  # Optional - generated via pip freeze
-├── README.md
-
 ### 🧪 Want to test?
 - Use Swagger /docs UI or send requests via Postman, curl, httpx, etc.
 - Everything is preloaded — no DB setup required!
