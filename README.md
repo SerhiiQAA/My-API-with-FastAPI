@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-0.110.2-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uvicorn-0.29.0-000000?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-2.x-6E5CAB?style=flat-square&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-Data%20Store-FFD700?style=flat-square&logo=json&logoColor=black" />
+</p>
+
+
 # Programming Languages API 📚🔧
 
 Simple and fully functional FastAPI-based demo API to explore programming languages.  
