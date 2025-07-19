@@ -54,7 +54,7 @@ uvicorn main:app --reload
 ### 5. Access Swagger
 - http://127.0.0.1:8000/docs
 
-### 📁 Project Structure
+📁 Project Structure
 ├── main.py           # API routes
 ├── models.py         # Pydantic schema
 ├── utils.py          # JSON handling logic
